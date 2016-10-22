@@ -1,0 +1,8 @@
+div{
+    margin: 10px;
+    width: 210px;
+    height: 150px;
+    float: left;
+    border-radius: 8px;
+    background-size: cover;
+}
